@@ -10,4 +10,4 @@ ANATOMIA
 
 TERMINOLOGIA CLINICA
 
-[Exercitium 1](https://le-marin.github.io/Exercitia/TC-01.html)  
+[Exercitium 1](https://le-marin.github.io/Med-Latin/TC-01.html)  
