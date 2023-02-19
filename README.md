@@ -5,9 +5,10 @@ COMMUNIA
 [Lectio 1](https://le-marin.github.io/Med-Latin/lec-01.html)  
 [Lectio 2](https://le-marin.github.io/Med-Latin/lec-02.html)  
 
-ANATOMIA + PHARMA
+ANATOMIA + PHARMACOLOGIA
 
-[Exercitium 2](https://le-marin.github.io/Med-Latin/ex-02.html)
+[Exercitium 2](https://le-marin.github.io/Med-Latin/ex-02.html)  
+[Exercitium 3](https://le-marin.github.io/Med-Latin/ex-03.html)  
 
 TERMINOLOGIA CLINICA
 
