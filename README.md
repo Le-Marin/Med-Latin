@@ -10,6 +10,7 @@ ANATOMIA + PHARMACOLOGIA
 [Exercitium 1](https://le-marin.github.io/Med-Latin/ex-01.html)  
 [Exercitium 2](https://le-marin.github.io/Med-Latin/ex-02.html)  
 [Exercitium 3](https://le-marin.github.io/Med-Latin/ex-03.html)  
+[Exercitium 4](https://le-marin.github.io/Med-Latin/ex-04.html)  
 
 TERMINOLOGIA CLINICA
 
